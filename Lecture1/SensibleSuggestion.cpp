@@ -46,4 +46,5 @@ int main() {
     }
     
     int x = 4.2; // this works in C++ but not in Java
+    cout << x << "\n";
 }
